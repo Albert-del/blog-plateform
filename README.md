@@ -1,2 +1,2 @@
-# blog-plateform
+# blog-platform
 writer blog by java
